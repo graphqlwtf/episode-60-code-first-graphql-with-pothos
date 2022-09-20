@@ -1,0 +1,22 @@
+{
+  "name": "episode-59",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node-dev server.ts",
+    "start": "ts-node server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "2.0.0",
+    "typescript": "4.8.3"
+  },
+  "dependencies": {
+    "@graphql-yoga/node": "2.13.13",
+    "@pothos/core": "3.21.0",
+    "@pothos/plugin-with-input": "3.7.0",
+    "graphql": "^16.6.0",
+    "ts-node": "10.9.1"
+  }
+}
