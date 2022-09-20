@@ -1,5 +1,5 @@
 {
-  "name": "episode-59",
+  "name": "episode-60-code-first-graphql-with-pothos",
   "private": true,
   "scripts": {
     "dev": "ts-node-dev server.ts",
